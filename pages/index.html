@@ -65,10 +65,14 @@
                 <input list="RegCodes"class="form-control" type="text" style="
                 font-family: 'Product Sans';
                 font-size: 17px;
-                color: blue;" value="" id="edtNumberPlateCode">
+                color: blue;" value="" onchange="renderNumberPlateTile()" id="edtNumberPlateCode">
                 <br>
                 
             </div>
+        </div>
+        <br>
+        <div id="ResultOutput"  style="display:none;font-family: 'Product Sans';" class="card">
+            <h5 id="lblResultTownCity"></h5>
         </div>
     </div>
 
@@ -82,11 +86,16 @@
             <a style="color:blue" href="https://adgstudios.co.za/"> ADGSTUDIOS</a>
         </div>
 
-
     </footer>
 </body>
 
 {{CodeDOM|safe}}
+
+
+<script type="text/javascript">
+var CarData = {{CarData|safe}};
+
+</script>
 
 
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js'></script>
@@ -96,6 +105,7 @@
 
 <script async defer src="https://buttons.github.io/buttons.js "></script>
 <script src="/static/js/soft-ui-dashboard.js"></script>
+<script src="/static/js/CarData.js"></script>
 </body>
 
 </html>

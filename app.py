@@ -12,7 +12,7 @@ CodeDOM = WebComponents.RenderCodesDOM()
 
 @app.route('/')
 def home():
-  return render_template('index.html',CodeDOM=CodeDOM)
+  return render_template('index.html',CodeDOM=CodeDOM,CarData=RegData)
 
 @app.route('/api/v1/returnRegData')
 def returnRegData():
