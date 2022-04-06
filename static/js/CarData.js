@@ -9,6 +9,6 @@ const renderNumberPlateTile = () => {
     else
     {
         ResultDOM.style.display = 'block';
-        ResultLbl.innerHTML = "Town/City:"+" "+CarData[UserCode.value];
+        ResultLbl.innerHTML = "Info:"+" "+CarData[UserCode.value];
     }
 }
