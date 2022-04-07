@@ -1,7 +1,7 @@
 Registration;Location
 B;Police vehicles
-EC;Eastern Cape province
-FS;Free State (formerly Orange Free State) province
+EC;Eastern Western Cape
+FS;Free State (formerly Free State) province
 G;Government vehicles (?)
 GP;Gauteng province
 L;Limpopo (Northern) province
@@ -9,156 +9,156 @@ M;Military vehicles
 MG;Mpumalanga province governmental vehicles
 MP;Mpumalanga province
 N;(formerly used for) Limpopo (Northern) province
-NC;Northern Cape province
+NC;Northern Western Cape
 NW;North West province
 T;Transvaal province
-WP;Western Cape province (only private license plates)
+WP;Western Cape (only private license plates)
 ZN;KwaZulu Natal province (only private license plates)
 BT;Bantu Trust vehicles
-CA;Cape Town, Cape Province
-CAA;Cape Town, Cape Province
-CAB;Aberdeen, Cape Province
-CAC;Burgersdorp, Cape Province
-CAD;Alexandria & Paterson, Cape Province
-CAE;Aliwal North, Cape Province
-CAF;Barkly East, Cape Province
-CAG;Barkly West, Cape Province
-CAH;Port Alfred & Bathurst, Cape Province
-CAJ;Bedford, Cape Province
-CAL;Britstown, Cape Province
-CAM;Caledon & Kleinmond, Cape Province
-CAN;Calvinia, Brandvlei & Loeriesfontein, Cape Province
-CAO;Carnarvon, Cape Province
-CAP;Cathcart, Cape Province
-CAR;Clanwilliam & Lambert's Bay, Cape Province
-CAS;Colesberg, Cape Province
-CAT;Cradock, Cape Province
-CAU;Fort Beaufort, Cape Province
-CAV;Fraserburg, Cape Province
-CAW;George, Cape Province
-CAY;Upington, Cape Province
+CA;Cape Town, Western Cape
+CAA;Cape Town, Western Cape
+CAB;Aberdeen, Western Cape
+CAC;Burgersdorp, Western Cape
+CAD;Alexandria & Paterson, Western Cape
+CAE;Aliwal North, Western Cape
+CAF;Barkly East, Western Cape
+CAG;Barkly West, Western Cape
+CAH;Port Alfred & Bathurst, Western Cape
+CAJ;Bedford, Western Cape
+CAL;Britstown, Western Cape
+CAM;Caledon & Kleinmond, Western Cape
+CAN;Calvinia, Brandvlei & Loeriesfontein, Western Cape
+CAO;Carnarvon, Western Cape
+CAP;Cathcart, Western Cape
+CAR;Clanwilliam & Lambert's Bay, Western Cape
+CAS;Colesberg, Western Cape
+CAT;Cradock, Western Cape
+CAU;Fort Beaufort, Western Cape
+CAV;Fraserburg, Western Cape
+CAW;George, Western Cape
+CAY;Upington, Western Cape
 CAZ;Graaf
-CB;Port Elizabeth, Cape Province
-CBA;Hanover, Cape Province
-CBB;Griquatown, Cape Province
-CBC;Douglas, Cape Province
-CBE;Hopetown & Strydenburg, Cape Province
-CBF;Humansdorp & Jeffreys Bay, Cape Province
-CBG;Jansenville, Cape Province
-CBH;Kenhardt, Cape Province
-CBJ;Komga, Cape Province
-CBK;Kuruman, Cape Province
-CBL;Ladismith, Cape Province
-CBM;Laingsburg, Cape Province
-CBN;Mafikeng, Cape Province
-CBO;Hofmeyr, Cape Province
-CBP;Middelburg, Cape Province
-CBR;Montagu, Cape Province
-CBS;Mossel Bay & Hartenbos, Cape Province
-CBT;Murraysburg, Cape Province
-CBU;Springbok, Cape Province
-CBV;Pearston, Cape Province
-CBW;Peddie, Cape Province
-CBX;Philipstown, Petrusville & Vanderkloof, Cape Province
-CBY;Piketberg, Cape Province
-CBZ;Prieska, Cape Province
-CC;Kimberley, Cape Province
-CCA;Prince Albert, Cape Province
-CCB;Richmond, Cape Province
-CCC;Riverdale & Still Bay, Cape Province
-CCD;Robertson & McGregor, Cape Province
-CCE;Somerset East, Cape Province
-CCF;Steynsburg, Cape Province
-CCG;Steytlerville, Cape Province
-CCH;Seymour, Cape Province
-CCJ;Sutherland, Cape Province
-CCK;Swellendam & Barrydale, Cape Province
-CCL;Tarkastad, Cape Province
-CCM;Tulbagh, Cape Province
-CCN;Uitenhage & Despatch, Cape Province
-CCO;Uniondale, Cape Province
-CCP;Vanrhynsdorp & Klawer, Cape Province
-CCR;Victoria West, Loxton & Vosburg, Cape Province
-CCS;Vryburg & Reivilo, Cape Province
-CCT;Willowmore, Cape Province
-CCU;Dordrecht, Cape Province
-CCV;Butterworth (aka Gcuwa), Cape Province (formerly Transkei)
-CCW;Kokstad, Cape Province
-CCX;Matatiele, Cape Province
-CD;King William's Town, Cape Province
-CDA;Elliot, Cape Province
-CDL;Maclear, Cape Province
-CDX;Middledrift, Cape Province
-CDZ;Venderstad, Cape Province
-CE;East London & Gonubie, Cape Province
-CEA;Moorresburg, Cape Province
-CEB;Kirkwood, Cape Province
-CEC;Garies, Cape Province
-CED;Hankey, Cape Province
-CEE;Warrenton, Cape Province
-CEF;Whittlesea, Cape Province
-CEG;Heidelberg, Cape Province
-CEH;Jamestown, Cape Province
-CEJ;Lady Grey, Cape Province
-CEK;Pofadder, Cape Province
-CEL;Noupoort, Cape Province
-CEM;Hermanus, Gans Bay, Onrus River & Stanford, Cape Province
-CEN;Indwa, Cape Province
-CEO;Grabouw, Cape Province
-CEP;Strekstroom, Cape Province
-CER;Bonnievale, Cape Province
-CES;Albertinia, Cape Province
-CET;Joubertine, Cape Province
-CEU;Hartswater & Jan Kempdorf, Cape Province
-CEV;Postmasburg & DaniÃ«lskuil, Cape Province
-CEW;Olifantshoek, Sishen & Kathu, Cape Province
-CEX;Porterville, Cape Province
-CEY;Strand & Gordon's Bay, Cape Province
-CEZ;Williston, Cape Province
-CF;Grahamstown, Cape Province
-CFA;Wolseley, Cape Province
-CFB;Molteno, Cape Province
-CFC;Stutterheim, Cape Province
-CFD;Alice, Cape Province
-CFG;Vredenburg & St Helena Bay, Cape Province
-CFH;Kokamas, Cape Province
-CFG;Adelaide, Cape Province
-CFK;Keiskammahoek, Cape Province
-CFM;Somerset West, Cape Province
-CFO;Keimoes, Cape Province
-CFP;Velddrif (formerly used for Laaiplek), Cape Province
-CFR;Kuilsrivier & Brackensfel, Cape Province
-CFS;Groblershoop, Cape Province
-CG;Oudtshoorn, Cape Province
-CH;Queenstown, Cape Province
-CJ;Paarl & Franschhoek, Cape Province
-CK;Malmesbury & Darling, Cape Province
-CL;Stellenbosch, Cape Province
-CM;De Aar, Cape Province
-CN;Wellington, Cape Province
-CO;Calitzdorp, Cape Province
-CR;Hopefield & Langebaan, Cape Province
-CS;Bredasdorp & Napier, Cape Province
-CT;Ceres, Cape Province
-CU;Port Nolloth, Cape Province
-CV;Vredendal, Cape Province
-CW;Worcester, De Doorns & Touwsrivier, Cape Province
-CWB;Walvis Bay, Cape Province
-CX;Knyana, Sedgefield & Plettenberg Bay, Cape Province
-CY;Bellville, Durbanville & Kraaifontein, Cape Province
-CZ;Beaufort West, Cape Province
+CB;Port Elizabeth, Western Cape
+CBA;Hanover, Western Cape
+CBB;Griquatown, Western Cape
+CBC;Douglas, Western Cape
+CBE;Hopetown & Strydenburg, Western Cape
+CBF;Humansdorp & Jeffreys Bay, Western Cape
+CBG;Jansenville, Western Cape
+CBH;Kenhardt, Western Cape
+CBJ;Komga, Western Cape
+CBK;Kuruman, Western Cape
+CBL;Ladismith, Western Cape
+CBM;Laingsburg, Western Cape
+CBN;Mafikeng, Western Cape
+CBO;Hofmeyr, Western Cape
+CBP;Middelburg, Western Cape
+CBR;Montagu, Western Cape
+CBS;Mossel Bay & Hartenbos, Western Cape
+CBT;Murraysburg, Western Cape
+CBU;Springbok, Western Cape
+CBV;Pearston, Western Cape
+CBW;Peddie, Western Cape
+CBX;Philipstown, Petrusville & Vanderkloof, Western Cape
+CBY;Piketberg, Western Cape
+CBZ;Prieska, Western Cape
+CC;Kimberley, Western Cape
+CCA;Prince Albert, Western Cape
+CCB;Richmond, Western Cape
+CCC;Riverdale & Still Bay, Western Cape
+CCD;Robertson & McGregor, Western Cape
+CCE;Somerset East, Western Cape
+CCF;Steynsburg, Western Cape
+CCG;Steytlerville, Western Cape
+CCH;Seymour, Western Cape
+CCJ;Sutherland, Western Cape
+CCK;Swellendam & Barrydale, Western Cape
+CCL;Tarkastad, Western Cape
+CCM;Tulbagh, Western Cape
+CCN;Uitenhage & Despatch, Western Cape
+CCO;Uniondale, Western Cape
+CCP;Vanrhynsdorp & Klawer, Western Cape
+CCR;Victoria West, Loxton & Vosburg, Western Cape
+CCS;Vryburg & Reivilo, Western Cape
+CCT;Willowmore, Western Cape
+CCU;Dordrecht, Western Cape
+CCV;Butterworth (aka Gcuwa), Western Cape (formerly Transkei)
+CCW;Kokstad, Western Cape
+CCX;Matatiele, Western Cape
+CD;King William's Town, Western Cape
+CDA;Elliot, Western Cape
+CDL;Maclear, Western Cape
+CDX;Middledrift, Western Cape
+CDZ;Venderstad, Western Cape
+CE;East London & Gonubie, Western Cape
+CEA;Moorresburg, Western Cape
+CEB;Kirkwood, Western Cape
+CEC;Garies, Western Cape
+CED;Hankey, Western Cape
+CEE;Warrenton, Western Cape
+CEF;Whittlesea, Western Cape
+CEG;Heidelberg, Western Cape
+CEH;Jamestown, Western Cape
+CEJ;Lady Grey, Western Cape
+CEK;Pofadder, Western Cape
+CEL;Noupoort, Western Cape
+CEM;Hermanus, Gans Bay, Onrus River & Stanford, Western Cape
+CEN;Indwa, Western Cape
+CEO;Grabouw, Western Cape
+CEP;Strekstroom, Western Cape
+CER;Bonnievale, Western Cape
+CES;Albertinia, Western Cape
+CET;Joubertine, Western Cape
+CEU;Hartswater & Jan Kempdorf, Western Cape
+CEV;Postmasburg & DaniÃ«lskuil, Western Cape
+CEW;Olifantshoek, Sishen & Kathu, Western Cape
+CEX;Porterville, Western Cape
+CEY;Strand & Gordon's Bay, Western Cape
+CEZ;Williston, Western Cape
+CF;Grahamstown, Western Cape
+CFA;Wolseley, Western Cape
+CFB;Molteno, Western Cape
+CFC;Stutterheim, Western Cape
+CFD;Alice, Western Cape
+CFG;Vredenburg & St Helena Bay, Western Cape
+CFH;Kokamas, Western Cape
+CFG;Adelaide, Western Cape
+CFK;Keiskammahoek, Western Cape
+CFM;Somerset West, Western Cape
+CFO;Keimoes, Western Cape
+CFP;Velddrif (formerly used for Laaiplek), Western Cape
+CFR;Kuilsrivier & Brackensfel, Western Cape
+CFS;Groblershoop, Western Cape
+CG;Oudtshoorn, Western Cape
+CH;Queenstown, Western Cape
+CJ;Paarl & Franschhoek, Western Cape
+CK;Malmesbury & Darling, Western Cape
+CL;Stellenbosch, Western Cape
+CM;De Aar, Western Cape
+CN;Wellington, Western Cape
+CO;Calitzdorp, Western Cape
+CR;Hopefield & Langebaan, Western Cape
+CS;Bredasdorp & Napier, Western Cape
+CT;Ceres, Western Cape
+CU;Port Nolloth, Western Cape
+CV;Vredendal, Western Cape
+CW;Worcester, De Doorns & Touwsrivier, Western Cape
+CWB;Walvis Bay, Western Cape
+CX;Knyana, Sedgefield & Plettenberg Bay, Western Cape
+CY;Bellville, Durbanville & Kraaifontein, Western Cape
+CZ;Beaufort West, Western Cape
 DK;Rural Foundation vehicles
 DW;Department of Water Affairs vehicles
 GAZ;Gazankulu (formerly Ciskei) government vehicles
 GC;Ciskei government vehicles
-GCA;Alice, Cape Province (formerly Ciskei)
-GCB;Hewu & Whittlesea, Cape Province (formerly Ciskei)
-GCC;Keiskammahoek, Cape Province (formerly Ciskei)
-GCD;Middledrift, Cape Province (formerly Ciskei)
-GCE;Mdantsane, Cape Province (formerly Ciskei)
-GCF;Peddie, Cape Province (formerly Ciskei)
-GCH;Mpofu & Seymour, Cape Province (formerly Ciskei)
-GCJ;Zwelitsha, Cape Province (formerly Ciskei)
+GCA;Alice, Western Cape (formerly Ciskei)
+GCB;Hewu & Whittlesea, Western Cape (formerly Ciskei)
+GCC;Keiskammahoek, Western Cape (formerly Ciskei)
+GCD;Middledrift, Western Cape (formerly Ciskei)
+GCE;Mdantsane, Western Cape (formerly Ciskei)
+GCF;Peddie, Western Cape (formerly Ciskei)
+GCH;Mpofu & Seymour, Western Cape (formerly Ciskei)
+GCJ;Zwelitsha, Western Cape (formerly Ciskei)
 GCP;Ciskei police vehicles
 GC;SF 
 GN;Mhala, Limpopo? (formerly Gazankulu)
@@ -258,71 +258,71 @@ NV;Vryheid, KwaZulu Natal
 NW;Weenen, KwaZulu Natal
 NX;Scottburg (formerly Alexandria), KwaZulu Natal
 NZ;Mtunzini, KwaZulu Natal
-OA;Bethlehem, Orange Free State
-OAB;Reitz, Orange Free State
-OAF;Kestell, Orange Free State
-OB;Bloemfontein, Orange Free State
-OBB;Brandfort, Orange Free State
-OBD;Dewetsdorp, Orange Free State
-OBG;Reddersburg, Orange Free State
-OBT;Botshabele, Orange Free State
-OBW;Phuthadistjhaba, Orange Free State
-OC;Bethulie, Orange Free State
-OCC;Springfontein, Orange Free State
-OD;Boshoff, Orange Free State
-ODB;Hertzogville, Orange Free State
-ODD;Deslesville, Orange Free State
-OE;Edenburg, Orange Free State
-OEB;Trompsburg, Orange Free State
-OF;Fauresmith, Orange Free State
-OFB;Jagersfontein, Orange Free State
-OFD;Koffiefontein, Orange Free State
-OFH;Petrusburg, Orange Free State
-OG;Picksburg, Orange Free State
-OGB;Fouriesburg, Orange Free State
-OH;Frankfort, Orange Free State
-OHB;Villiers, Orange Free State
-OHS;Harrismith, Orange Free State
-OIC;Warden, Orange Free State
-OIL;Sasolburg, Orange Free State
-OJ;Heilbron, Orange Free State
-OK;Hoopstad, Orange Free State
-OKB;Bultfontein, Orange Free State
-OKC;Odendaalsrus, Orange Free State
-OKD;Wesselsbron, Orange Free State
-OKE;Welkom, Orange Free State
-OL;Jacobsdal, Orange Free State
-OM;Kroonstad, Orange Free State
-OMB;Bothaville, Orange Free State
-OMF;Viljoenskroon, Orange Free State
-OMG;Edenville, Orange Free State
-ON;Ladybrand, Orange Free State
-ONB;Hobhouse, Orange Free State
-OND;Clocolan, Orange Free State
-OO;Lindley, Orange Free State
-OOD;Steynsrus, Orange Free State
-OOE;Petrus Steyn, Orange Free State
-OP;Philippolis, Orange Free State
-OR;Senekal, Orange Free State
-ORD;Marquard, Orange Free State
-ORE;Paul Roux, Orange Free State
-ORX;Rouxville, Orange Free State
-OS;Smithfield, Orange Free State
-OU;Vrede, Orange Free State
-OUB;Memel, Orange Free State
-OV;Parys, Orange Free State
-OVB;Vredefort, Orange Free State
-OVE;Koppies, Orange Free State
-OW;Wepener, Orange Free State
-OX;Winburg, Orange Free State
-OXD;Theunissen, Orange Free State
-OXF;Ventersburg, Orange Free State
-OXG;Excelsior, Orange Free State
-OXH;Hennenman, Orange Free State
-OXV;Virginia, Orange Free State
-OZ;Zastron, Orange Free State
+OA;Bethlehem, Free State
+OAB;Reitz, Free State
+OAF;Kestell, Free State
+OB;Bloemfontein, Free State
+OBB;Brandfort, Free State
+OBD;Dewetsdorp, Free State
+OBG;Reddersburg, Free State
+OBT;Botshabele, Free State
+OBW;Phuthadistjhaba, Free State
+OC;Bethulie, Free State
+OCC;Springfontein, Free State
+OD;Boshoff, Free State
+ODB;Hertzogville, Free State
+ODD;Deslesville, Free State
+OE;Edenburg, Free State
+OEB;Trompsburg, Free State
+OF;Fauresmith, Free State
+OFB;Jagersfontein, Free State
+OFD;Koffiefontein, Free State
+OFH;Petrusburg, Free State
+OG;Picksburg, Free State
+OGB;Fouriesburg, Free State
+OH;Frankfort, Free State
+OHB;Villiers, Free State
+OHS;Harrismith, Free State
+OIC;Warden, Free State
+OIL;Sasolburg, Free State
+OJ;Heilbron, Free State
+OK;Hoopstad, Free State
+OKB;Bultfontein, Free State
+OKC;Odendaalsrus, Free State
+OKD;Wesselsbron, Free State
+OKE;Welkom, Free State
+OL;Jacobsdal, Free State
+OM;Kroonstad, Free State
+OMB;Bothaville, Free State
+OMF;Viljoenskroon, Free State
+OMG;Edenville, Free State
+ON;Ladybrand, Free State
+ONB;Hobhouse, Free State
+OND;Clocolan, Free State
+OO;Lindley, Free State
+OOD;Steynsrus, Free State
+OOE;Petrus Steyn, Free State
+OP;Philippolis, Free State
+OR;Senekal, Free State
+ORD;Marquard, Free State
+ORE;Paul Roux, Free State
+ORX;Rouxville, Free State
+OS;Smithfield, Free State
+OU;Vrede, Free State
+OUB;Memel, Free State
+OV;Parys, Free State
+OVB;Vredefort, Free State
+OVE;Koppies, Free State
+OW;Wepener, Free State
+OX;Winburg, Free State
+OXD;Theunissen, Free State
+OXF;Ventersburg, Free State
+OXG;Excelsior, Free State
+OXH;Hennenman, Free State
+OXV;Virginia, Free State
+OZ;Zastron, Free State
 PA;Roadworks vehicles (Padarbeid), not Cape Provincial Administration?
-PAO or OPA ?;Orange Free State Provincial Administration
+PAO or OPA ?;Free State Provincial Administration
 T;Bophuthatswana National Guard vehicles
 TA;Benoni, Transvaal
 TAA;Barberton, Transvaal
@@ -420,44 +420,44 @@ VV;Dzanani, Mutale, Sibasa & Vuwani, Venda
 V;V 
 WR;Qwaqwa Government vehicles
 WR;P 
-XA;Umtata, Cape Province (formerly Transkei)
-XAA;Nqamake, Cape Province (formerly Transkei)
-XAB;Tabankulu, Cape Province (formerly Transkei)
-XAC;Tsomo, Cape Province (formerly Transkei)
-XAD;Xhora, Cape Province (formerly Transkei)
-XAE;Mqanduli, Cape Province (formerly Transkei)
-XAF;Bizana, Cape Province (formerly Transkei)
-XAG;Gatyana, Cape Province (formerly Transkei)
-XAH;Siphaqeni, Cape Province (formerly Transkei)
-XB;Gcuwa (aka Butterworth), Cape Province (formerly Transkei)
-XC;Lusikisiki, Cape Province (formerly Transkei)
-XD;Cofimvaba, Cape Province (formerly Transkei)
-XE;Engcobo, Cape Province (formerly Transkei)
-XF;Umzimvubu, Cape Province (formerly Transkei)
+XA;Umtata, Western Cape (formerly Transkei)
+XAA;Nqamake, Western Cape (formerly Transkei)
+XAB;Tabankulu, Western Cape (formerly Transkei)
+XAC;Tsomo, Western Cape (formerly Transkei)
+XAD;Xhora, Western Cape (formerly Transkei)
+XAE;Mqanduli, Western Cape (formerly Transkei)
+XAF;Bizana, Western Cape (formerly Transkei)
+XAG;Gatyana, Western Cape (formerly Transkei)
+XAH;Siphaqeni, Western Cape (formerly Transkei)
+XB;Gcuwa (aka Butterworth), Western Cape (formerly Transkei)
+XC;Lusikisiki, Western Cape (formerly Transkei)
+XD;Cofimvaba, Western Cape (formerly Transkei)
+XE;Engcobo, Western Cape (formerly Transkei)
+XF;Umzimvubu, Western Cape (formerly Transkei)
 XG;Transkei government vehicles
 XGA;Agriculture & Forestry Dept vehicles
 XGC;Commerce, Industry & Tourism Dept vehicles
 XGH;Health & Welfare Dept vehicles
 XGL;Local Government & Land Tenure Dept vehicles
 XGW;Works & Energy Dept vehicles
-XH;Umzimkulu, Cape Province (formerly Transkei)
-XJ;Maxesibeni, Cape Province (formerly Transkei)
-XK;Kwabhaca, Cape Province (formerly Transkei)
-XL;Matatiele, Cape Province (formerly Transkei)
+XH;Umzimkulu, Western Cape (formerly Transkei)
+XJ;Maxesibeni, Western Cape (formerly Transkei)
+XK;Kwabhaca, Western Cape (formerly Transkei)
+XL;Matatiele, Western Cape (formerly Transkei)
 XM;Transkei Army vehicles
-XN;Idutywa, Cape Province (formerly Transkei)
-XO;Tsolo, Cape Province (formerly Transkei)
+XN;Idutywa, Western Cape (formerly Transkei)
+XO;Tsolo, Western Cape (formerly Transkei)
 XP;Transkei police vehicles
 XPT;Transkei Traffic Police vehicles
-XR;Cacadu, Cape Province (formerly Transkei)
+XR;Cacadu, Western Cape (formerly Transkei)
 XRT;Transkei Road Transport Services vehicles
-XS;Xalanga, Cape Province (formerly Transkei)
-XT;Herschel, Cape Province (formerly Transkei)
-XU;Libode, Cape Province (formerly Transkei)
-XV;Qumbu, Cape Province (formerly Transkei)
-XW;Mt Fletcher, Cape Province (formerly Transkei)
-XY;Centane, Cape Province (formerly Transkei)
-XZ;Ngqeleni, Cape Province (formerly Transkei)
+XS;Xalanga, Western Cape (formerly Transkei)
+XT;Herschel, Western Cape (formerly Transkei)
+XU;Libode, Western Cape (formerly Transkei)
+XV;Qumbu, Western Cape (formerly Transkei)
+XW;Mt Fletcher, Western Cape (formerly Transkei)
+XY;Centane, Western Cape (formerly Transkei)
+XZ;Ngqeleni, Western Cape (formerly Transkei)
 YB;Bophuthatswana government vehicles
 YBA;Molopo, formerly Bophuthatswana
 YBB;Odi, formerly Bophuthatswana
