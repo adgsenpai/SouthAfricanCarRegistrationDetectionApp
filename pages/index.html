@@ -2,13 +2,14 @@
 <html lang="en">
 
 <head>
-    
+
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="apple-touch-icon" sizes="76x76" href="/static/img/apple-icon.png">
-    <link rel="icon" type="image/png" href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png">
+    <link rel="icon" type="image/png"
+        href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png">
 
-  
+
     <title>
         South African Car Registration Town/City Finder
     </title>
@@ -33,7 +34,9 @@
 
                 </a>
             </div>
-            <img class="img-fluid" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Coat_of_arms_of_South_Africa.svg/1200px-Coat_of_arms_of_South_Africa.svg.png" style="
+            <img class="img-fluid"
+                src="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Coat_of_arms_of_South_Africa.svg/1200px-Coat_of_arms_of_South_Africa.svg.png"
+                style="
                 width: 150px;
             ">
             <div class="card-body pt-2">
@@ -49,7 +52,7 @@
                     color: black;
                 ">an application to fetch the town/city of any given South African number plate</h3>
                 <br>
-               
+
             </div>
 
 
@@ -64,17 +67,50 @@
                 color: black;">To get started enter the number plate code</label>
                 <br>
                 <br>
-                <input list="RegCodes"class="form-control" type="text" style="
+                <input list="RegCodes" class="form-control" type="text" style="
                 font-family: 'Product Sans';
                 font-size: 17px;
                 color: blue;" value="" onchange="renderNumberPlateTile()" id="edtNumberPlateCode">
                 <br>
-                
+
             </div>
         </div>
         <br>
-        <div id="ResultOutput"  style="display:none;font-family: 'Product Sans';" class="card">
-            <h5 id="lblResultTownCity"></h5>
+        <div id="ResultOutput" style="font-family: 'Product Sans';" class="card">
+            <h2 style="font-size: 30px; color: black;display:none" id="lblResultTownCity"></h2>
+            <br>
+            <br>
+            <div style="display:none;
+             justify-content: center;
+             align-items: center;" id="Progress">
+
+                <div class="spinner-grow text-primary" role="status">
+                    <span class="sr-only">Loading...</span>
+                </div>
+                <div class="spinner-grow text-success" role="status">
+                    <span class="sr-only">Loading...</span>
+                </div>
+                <div class="spinner-grow text-danger" role="status">
+                    <span class="sr-only">Loading...</span>
+                </div>
+                <div class="spinner-grow text-warning" role="status">
+                    <span class="sr-only">Loading...</span>
+                </div>
+                <div class="spinner-grow text-info" role="status">
+                    <span class="sr-only">Loading...</span>
+                </div>
+                <div class="spinner-grow text-light" role="status">
+                    <span class="sr-only">Loading...</span>
+                </div>
+                <div class="spinner-grow text-dark" role="status">
+                    <span class="sr-only">Loading...</span>
+                </div>
+            </div>
+
+            <img class="img-fluid" id="CityRenderImg" style="display:none;border-radius: 10px;" src="">
+            <br>
+            <p style="font-family: 'Product Sans';color: black;display:none" id="GeneralInformation"></p>
+            <p>
         </div>
     </div>
 
@@ -95,7 +131,7 @@
 
 
 <script type="text/javascript">
-var CarData = {{CarData|safe}};
+    var CarData = {{ CarData| safe}};
 
 </script>
 
