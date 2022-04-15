@@ -2,3 +2,4 @@ gunicorn
 Flask
 pandas
 wikipedia
+flask_cors
