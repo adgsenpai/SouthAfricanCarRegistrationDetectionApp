@@ -10,11 +10,10 @@ CORS(app)
 app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 
 RegData = WebComponents.ReturnNumberPlateData()
-CodeDOM = WebComponents.RenderCodesDOM()
 
 @app.route('/')
 def home():
-  return render_template('index.html',CodeDOM=CodeDOM,CarData=RegData)
+  return render_template('index.html')
 
 @app.route('/api/v1/returnRegData')
 def returnRegData():
